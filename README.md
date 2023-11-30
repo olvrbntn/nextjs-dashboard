@@ -1,5 +1,5 @@
-## Next.js App Router Course - Final
+## Introduction
+This is a Full-Stack Web Dashboard App created using Next.js, React, and Tailwind CSS. It utilizes the app router system of Next.js along with server actions to fetch and mutate data.
 
-This is the final template for the Next.js App Router Course. It contains the final code for the dashboard application.
+### Created by Oliver Javier
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
